@@ -8,7 +8,7 @@ package ejercicio2;
  *
  * @author asus
  */
-public class estudiante {
+public class estudiante  {
       private String matricula;
 
 

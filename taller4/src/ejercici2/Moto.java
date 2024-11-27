@@ -22,3 +22,4 @@ public class Moto extends Vehiculo {
         super.mostrarInformacion(); 
         System.out.println("Cilindrada: " + cilindrada + " cc");
     }
+}

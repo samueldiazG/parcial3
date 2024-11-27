@@ -13,7 +13,7 @@ public class evitarerror {
 
 
     public static void mostrarMensaje() {
-        System.out.println(this.mensaje); 
+        //System.out.println(this.mensaje); 
     }
 
     public static void main(String[] args) {
